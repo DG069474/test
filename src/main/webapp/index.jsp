@@ -13,6 +13,6 @@
 	<BR>
 	<%= "This is an scm poll test" %>	
 	<BR>
-		<%= "Additional lines"%=>
+		<%= "blah blah Additional lines"%=>
 </body>
 </html>
